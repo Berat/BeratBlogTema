@@ -1,0 +1,18 @@
+@font-face{
+font-family: 'Source Sans';
+font-style: normal;
+font-weight: 400;
+ src: url(font/SourceSansPro-Regular.ttf);
+}
+@font-face{
+font-family: 'Source Sans';
+font-style: normal;
+font-weight: 600;
+ src: url(font/SourceSansPro-Semibold.ttf);
+}
+@font-face {
+  font-family: 'tiefontello';
+  src: url('font/tiefontello.ttf?88026028') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
